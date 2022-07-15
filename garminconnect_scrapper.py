@@ -5,6 +5,8 @@ from garminconnect import (
     Garmin,
 )
 
+#why wont I push
+
 # Login to Garmin connect
 inp_username = input('Username/Email: ')
 inp_password = input('Password: ')
